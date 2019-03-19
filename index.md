@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>what should i do</title>
+        <title>GETTAAAWOANG</title>
     </head>
     <body>
-        i want to know      
+        <h1>GETTING STARTED WITH BRACKETS</h1>
+        <h2>This is your guide!</h2>      
     </body>
 </html>
 
