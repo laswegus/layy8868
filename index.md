@@ -5,7 +5,8 @@
     </head>
     <body>
         <h1>GETTING STARTED WITH BRACKETS</h1>
-        <h2>This is your guide!</h2>      
+        <h2>This is your guide!</h2>   
+        https://laswegus.github.io/layy8868/index2.html
     </body>
 </html>
 
